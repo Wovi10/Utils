@@ -40,6 +40,6 @@ public class NotImplementedException extends Exception{
      * @since 1.4
      */
     public NotImplementedException(Throwable cause) {
-        super(cause);
+        super(message, cause);
     }
 }
