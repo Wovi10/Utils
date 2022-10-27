@@ -2,6 +2,13 @@ package Exceptions;
 
 import java.security.PrivilegedActionException;
 
+/**
+ * NotImplementedException
+ * This class is a simple extension of Exception.
+ * By using this class you don't have to worry about messages being set.
+ *
+ * @author - Wout Vinckevleugel (Wovi10)
+ */
 public class NotImplementedException extends Exception{
     private static final String message= "This function has not yet been implemented.";
     /**
