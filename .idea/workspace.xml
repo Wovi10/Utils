@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="989d1127-bc21-4fa5-8def-56d53d031b86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Debug/DebugHelp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Debug/DebugHelp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/FileNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/FileNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/NoIntegerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exceptions/NoIntegerException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

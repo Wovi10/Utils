@@ -2,6 +2,13 @@ package Exceptions;
 
 import java.security.PrivilegedActionException;
 
+/**
+ * NoIntegerException
+ * This class is a simple extension of Exception.
+ * By using this class you don't have to worry about messages being set.
+ *
+ * @author - Wout Vinckevleugel (Wovi10)
+ */
 public class NoIntegerException extends Exception{
     private static final String message = "The given variable was not an Integer";
     /**
