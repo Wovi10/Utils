@@ -1,5 +1,12 @@
 package Debug;
 
+/**
+ * DebugHelp
+ * This class provides basic debugging help for neat use in your code.
+ * Use: just import the class and type DebugHelp.methodName to use that method
+ *
+ * @author - Wout Vinckevleugel (Wovi10)
+ */
 public class DebugHelp {
     /**
      * Writes to the System.out to which file is being written.

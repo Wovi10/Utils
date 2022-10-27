@@ -2,8 +2,15 @@ package Exceptions;
 
 import java.security.PrivilegedActionException;
 
+/**
+ * FileNotFoundException
+ * This class is a simple extension of Exception.
+ * By using this class you don't have to worry about messages being set.
+ *
+ * @author - Wout Vinckevleugel (Wovi10)
+ */
 public class FileNotFoundException extends Exception {
-    public static final String message = "The file given could not be found.";
+    private static final String message = "The file given could not be found.";
 
     /**
      * Constructs a new exception with {@code null} as its detail message.
